@@ -1,0 +1,2 @@
+# manusai-hackathon
+ScaleUpAI VR
